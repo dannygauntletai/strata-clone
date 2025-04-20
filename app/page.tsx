@@ -206,7 +206,7 @@ export default function Home() {
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 max-w-6xl mx-auto">
             <div className="bg-blue-50 p-8 rounded-lg text-center">
               <div className="flex items-center justify-center mb-4">
-                <span className="inline-block text-blue-600 text-[8rem]">💵</span>
+                <span className="inline-block text-blue-600 text-[8rem]">🏫</span>
               </div>
               <h3 className="text-xl font-bold text-blue-600 mb-4">WE'LL FILL YOUR SCHOOL</h3>
               <p className="text-gray-600">
